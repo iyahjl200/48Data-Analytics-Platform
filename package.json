@@ -1,0 +1,26 @@
+{
+  "name": "48-cvdf-ol",
+  "version": "1.0.0",
+  "description": "A comprehensive data analytics platform that enables organizations to gather, process, and analyze large amounts of data, uncovering valuable insights for informed decision-making.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iyahjl200/48Data-Analytics-Platform.git"
+  },
+  "keywords": [
+    "sample",
+    "npm",
+    "package"
+  ],
+  "author": "github.com",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "axios": "^0.21.1"
+  },
+  "peerDependencies": {
+    "react": ">=16.8.0",
+    "react-dom": ">=16.8.0"
+  }
+}
