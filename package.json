@@ -13,7 +13,7 @@
     "npm",
     "package"
   ],
-  "author": "github.com",
+  "author": "iyahjl200",
   "license": "MIT",
   "dependencies": {
     "lodash": "^4.17.21",
